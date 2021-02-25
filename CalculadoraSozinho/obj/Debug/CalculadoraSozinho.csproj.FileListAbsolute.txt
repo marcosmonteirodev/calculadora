@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\obj\Debug\CalculadoraSozinho.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\obj\Debug\CalculadoraSozinho.Form1.resources
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\obj\Debug\CalculadoraSozinho.Properties.Resources.resources
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\obj\Debug\CalculadoraSozinho.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\obj\Debug\CalculadoraSozinho.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\bin\Debug\CalculadoraSozinho.exe.config
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\bin\Debug\CalculadoraSozinho.exe
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\bin\Debug\CalculadoraSozinho.pdb
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\obj\Debug\CalculadoraSozinho.exe
+C:\Users\User\source\repos\CalculadoraSozinho\CalculadoraSozinho\obj\Debug\CalculadoraSozinho.pdb
