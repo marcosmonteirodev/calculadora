@@ -12,6 +12,7 @@ namespace CalculadoraSozinho
 {
     public partial class Form1 : Form
     {
+        public int valor1, valor2, resultado;
         public Form1()
         {
             InitializeComponent();
@@ -19,20 +20,15 @@ namespace CalculadoraSozinho
 
         private void btnSomar_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
-
             valor1 = Convert.ToInt32(txtValor1.Text);
             valor2 = Convert.ToInt32(txtValor2.Text);
 
             resultado = valor1 + valor2;
-
             lblResultado.Text = resultado.ToString($"Resultado: {resultado}");
         }
 
         private void btnSubtrair_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
-
             valor1 = Convert.ToInt32(txtValor1.Text);
             valor2 = Convert.ToInt32(txtValor2.Text);
 
@@ -44,8 +40,6 @@ namespace CalculadoraSozinho
 
         private void btnMultiplicacao_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
-
             valor1 = Convert.ToInt32(txtValor1.Text);
             valor2 = Convert.ToInt32(txtValor2.Text);
 
@@ -56,8 +50,6 @@ namespace CalculadoraSozinho
 
         private void btnDividir_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
-
             valor1 = Convert.ToInt32(txtValor1.Text);
             valor2 = Convert.ToInt32(txtValor2.Text);
 
