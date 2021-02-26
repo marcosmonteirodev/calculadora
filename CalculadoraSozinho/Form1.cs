@@ -24,7 +24,7 @@ namespace CalculadoraSozinho
             valor2 = Convert.ToInt32(txtValor2.Text);
 
             resultado = valor1 + valor2;
-            lblResultado.Text = resultado.ToString($"Resultado: {resultado}");
+            lblResultado.Text = $"Resultado: {resultado}";
         }
 
         private void btnSubtrair_Click(object sender, EventArgs e)
@@ -34,7 +34,7 @@ namespace CalculadoraSozinho
 
 
             resultado = valor1 - valor2;
-            lblResultado.Text = resultado.ToString($"Resultado: {resultado}");
+            lblResultado.Text = $"Resultado: {resultado}";
 
         }
 
@@ -45,7 +45,7 @@ namespace CalculadoraSozinho
 
             resultado = valor1 * valor2;
 
-            lblResultado.Text = resultado.ToString($"Resultado: {resultado}");
+            lblResultado.Text = $"Resultado: {resultado}";
         }
 
         private void btnDividir_Click(object sender, EventArgs e)
@@ -55,7 +55,7 @@ namespace CalculadoraSozinho
 
             resultado = valor1 / valor2;
 
-            lblResultado.Text = resultado.ToString($"Resultado: {resultado}");
+            lblResultado.Text = $"Resultado: {resultado}";
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
